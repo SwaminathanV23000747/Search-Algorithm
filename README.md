@@ -106,7 +106,9 @@ else:
 ## Sample Input and Output
 ![Linear search](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/befa8f9c-0292-443b-a704-f567b8c1c6b0)
 
+![3b binary](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/04478197-ab25-4445-9996-82808db19931)
 
+![3-c Linear](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/82583d28-dcf8-42c9-89f2-0b2ff36c61b4)
 
 
 
