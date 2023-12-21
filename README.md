@@ -19,6 +19,27 @@ To write a program to perform linear search and binary search using python progr
 ## Program:
 i)	#Use a linear search method to match the item in a list.
 ```
+''' 
+Program for linear search method to match the item in a list
+Developed by:  Swaminathan V
+RegisterNumber:  23000747
+'''python
+def linearSearch(array,n,k):
+    for i in range(0,n):
+        if(array[i]==k):
+          return i
+    return -1
+array =eval(input())
+k=eval(input())
+n=len(array)
+array.sort()
+result=linearSearch(array,n,k)
+if(result==-1):
+    print(array)
+    print("Element not found")
+else:
+    print(array)
+    print("Element found at index: ",result)
 
 
 
@@ -40,6 +61,7 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 ```
 ## Sample Input and Output
+![Linear search](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/befa8f9c-0292-443b-a704-f567b8c1c6b0)
 
 
 
