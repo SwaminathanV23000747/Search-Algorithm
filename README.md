@@ -108,7 +108,7 @@ else:
 
 ![3b binary](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/04478197-ab25-4445-9996-82808db19931)
 
-![3-c Linear](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/82583d28-dcf8-42c9-89f2-0b2ff36c61b4)
+![Screenshot 2023-12-21 214529](https://github.com/SwaminathanV23000747/Search-Algorithm/assets/148931113/40ce9bc4-38c2-4ca0-824d-01a9eea20831)
 
 
 
